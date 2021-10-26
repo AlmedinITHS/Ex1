@@ -2,7 +2,7 @@ public class Annat {
   public static void main (String [] args) {
     bark(true);
     bark();
-
+    bark();
     }
 
     public static void bark (boolean upset) {
